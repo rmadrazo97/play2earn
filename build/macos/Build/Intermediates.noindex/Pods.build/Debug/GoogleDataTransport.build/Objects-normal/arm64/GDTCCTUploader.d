@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleDataTransport.build/module.modulemap \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/GDTCCTUploader.m \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTUploader.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORUploader.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORLifecycle.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORPlatform.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORClock.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTargets.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORRegistrar.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORMetricsControllerProtocol.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCOREventDropReason.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageProtocol.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageEventSelector.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageSizeBytes.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORConsoleLogger.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREndpoints.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREvent.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventDataObject.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTUploadOperation.h

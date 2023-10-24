@@ -24,100 +24,33 @@ class MainMenuScreen extends StatelessWidget {
     final audioController = context.watch<AudioController>();
 
     return Scaffold(
-      backgroundColor: palette.backgroundMain,
-      body: ResponsiveScreen(
-        mainAreaProminence: 0.45,
-        squarishMainArea: Center(
-          child: Transform.rotate(
-            angle: -0.1,
-            child: const Text(
-              'Flutter Game Template!',
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontFamily: 'Permanent Marker',
-                fontSize: 55,
-                height: 1,
-              ),
-            ),
-          ),
-        ),
-        rectangularMenuArea: Column(
-          mainAxisAlignment: MainAxisAlignment.end,
-          children: [
-            FilledButton(
-              onPressed: () {
-                audioController.playSfx(SfxType.buttonTap);
-                GoRouter.of(context).go('/play');
-              },
-              child: const Text('Play'),
-            ),
-            _gap,
-            if (gamesServicesController != null) ...[
-              _hideUntilReady(
-                ready: gamesServicesController.signedIn,
-                child: FilledButton(
-                  onPressed: () => gamesServicesController.showAchievements(),
-                  child: const Text('Achievements'),
+      backgroundColor: Colors.white, // Setting a light background color.
+      body: GestureDetector( // Using GestureDetector to handle tap events.
+        onTap: () {
+          audioController.playSfx(SfxType.buttonTap);
+          GoRouter.of(context).go('/challenge-feed');
+        },
+        child: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              
+              Image.asset('assets/images/logo.png', height: 500), // Displaying your image.
+              SizedBox(height: 20),
+              const Text(
+                'Juega para Ganar',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  fontFamily: 'Roboto',
+                  fontSize: 30,
+                  height: 1,
                 ),
               ),
-              _gap,
-              _hideUntilReady(
-                ready: gamesServicesController.signedIn,
-                child: FilledButton(
-                  onPressed: () => gamesServicesController.showLeaderboard(),
-                  child: const Text('Leaderboard'),
-                ),
-              ),
-              _gap,
             ],
-            FilledButton(
-              onPressed: () => GoRouter.of(context).push('/settings'),
-              child: const Text('Settings'),
-            ),
-            _gap,
-            Padding(
-              padding: const EdgeInsets.only(top: 32),
-              child: ValueListenableBuilder<bool>(
-                valueListenable: settingsController.muted,
-                builder: (context, muted, child) {
-                  return IconButton(
-                    onPressed: () => settingsController.toggleMuted(),
-                    icon: Icon(muted ? Icons.volume_off : Icons.volume_up),
-                  );
-                },
-              ),
-            ),
-            _gap,
-            const Text('Music by Mr Smith'),
-            _gap,
-          ],
+          ),
         ),
       ),
     );
   }
-
-  /// Prevents the game from showing game-services-related menu items
-  /// until we're sure the player is signed in.
-  ///
-  /// This normally happens immediately after game start, so players will not
-  /// see any flash. The exception is folks who decline to use Game Center
-  /// or Google Play Game Services, or who haven't yet set it up.
-  Widget _hideUntilReady({required Widget child, required Future<bool> ready}) {
-    return FutureBuilder<bool>(
-      future: ready,
-      builder: (context, snapshot) {
-        // Use Visibility here so that we have the space for the buttons
-        // ready.
-        return Visibility(
-          visible: snapshot.data ?? false,
-          maintainState: true,
-          maintainSize: true,
-          maintainAnimation: true,
-          child: child,
-        );
-      },
-    );
-  }
-
-  static const _gap = SizedBox(height: 10);
 }
+

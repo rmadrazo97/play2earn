@@ -1,0 +1,18 @@
+"/Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseSessions/FirebaseSessions/Sources/FirebaseSessionsError.swift":
+  const-values: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessionsError.swiftconstvalues"
+  object: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessionsError.o"
+  dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessionsError.d"
+  swift-dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessionsError.swiftdeps"
+  diagnostics: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessionsError.dia"
+"/Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseSessions/FirebaseSessions/Sources/GoogleDataTransport+GoogleDataTransportProtocol.swift":
+  swift-dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/GoogleDataTransport+GoogleDataTransportProtocol.swiftdeps"
+  diagnostics: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/GoogleDataTransport+GoogleDataTransportProtocol.dia"
+  const-values: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/GoogleDataTransport+GoogleDataTransportProtocol.swiftconstvalues"
+  object: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/GoogleDataTransport+GoogleDataTransportProtocol.o"
+  dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/GoogleDataTransport+GoogleDataTransportProtocol.d"
+"/Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseSessions/FirebaseSessions/Sources/FirebaseSessions.swift":
+  object: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessions.o"
+  const-values: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessions.swiftconstvalues"
+  dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessions.d"
+  swift-dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessions.swiftdeps"
+  diagnostics: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/FirebaseSessions.dia"

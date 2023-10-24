@@ -1,0 +1,18 @@
+"/Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseSessions/FirebaseSessions/Sources/Development/DevEventConsoleLogger.swift":
+  swift-dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/DevEventConsoleLogger.swiftdeps"
+  diagnostics: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/DevEventConsoleLogger.dia"
+  dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/DevEventConsoleLogger.d"
+  object: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/DevEventConsoleLogger.o"
+  const-values: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/DevEventConsoleLogger.swiftconstvalues"
+"/Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseSessions/FirebaseSessions/Sources/EventGDTLogger.swift":
+  const-values: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/EventGDTLogger.swiftconstvalues"
+  swift-dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/EventGDTLogger.swiftdeps"
+  diagnostics: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/EventGDTLogger.dia"
+  dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/EventGDTLogger.d"
+  object: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/EventGDTLogger.o"
+"/Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseSessions/FirebaseSessions/Sources/ApplicationInfo.swift":
+  object: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/ApplicationInfo.o"
+  diagnostics: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/ApplicationInfo.dia"
+  swift-dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/ApplicationInfo.swiftdeps"
+  dependencies: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/ApplicationInfo.d"
+  const-values: "/Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseSessions.build/Objects-normal/arm64/ApplicationInfo.swiftconstvalues"

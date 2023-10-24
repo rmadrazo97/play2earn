@@ -38,6 +38,7 @@ import 'src/style/my_transition.dart';
 import 'src/style/palette.dart';
 import 'src/style/snack_bar.dart';
 import 'src/win_game/win_game_screen.dart';
+import 'src/challenges_feed/challenges_feed_screen.dart';
 
 Future<void> main() async {
   // Subscribe to log messages.
@@ -192,6 +193,16 @@ class MyApp extends StatelessWidget {
               path: 'settings',
               builder: (context, state) =>
                   const SettingsScreen(key: Key('settings')),
+            ),
+            GoRoute(
+              path: 'challenge-feed',
+              pageBuilder: (context, state) {
+                return buildMyTransition<void>(
+                  key: ValueKey('challenge-feed'),
+                  child: ChallengeFeedScreen(),
+                  color: context.watch<Palette>().backgroundMain, // Or use the color that fits best
+                );
+              },
             ),
           ]),
     ],

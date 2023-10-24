@@ -1,0 +1,43 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_in_app_purchase_storekitVersionString",
+            "_in_app_purchase_storekitVersionNumber"
+          ],
+          "objc_class": [
+            "FIAPRequestHandler",
+            "FIAPPaymentQueueDelegate",
+            "FIAPReceiptManager",
+            "FIATransactionCache",
+            "FIAPaymentQueueHandler",
+            "FIAObjectTranslator",
+            "PodsDummy_in_app_purchase_storekit",
+            "InAppPurchasePlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/in_app_purchase_storekit.framework/Versions/A/in_app_purchase_storekit"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "11",
+        "target": "arm64-macos"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

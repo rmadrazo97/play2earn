@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainerInternal.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRFirebaseUserAgent.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleUtilities.build/module.modulemap \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/amadrazo/Desktop/dev/play2earn/play2earn/macos/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h

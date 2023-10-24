@@ -43,7 +43,7 @@ version
 **/ios/**/*.pbxuser
 **/ios/**/*.perspectivev3
 **/ios/**/*sync/
-**/ios/**/.sconsign.dblite
+**/ios/**/.sconsign.dblites
 **/ios/**/.tags*
 **/ios/**/.vagrant/
 **/ios/**/DerivedData/
